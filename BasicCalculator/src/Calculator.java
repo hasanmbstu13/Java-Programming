@@ -19,6 +19,11 @@ public class Calculator {
 		answer = firstNo + secondNo;
 		
 		System.out.println(answer);
+		
+		/*
+		 * For getting input it is depend on data type like
+		 * for getting string type input use nextLine() for double type use nextDouble() 
+		 */
 
 	}
 
